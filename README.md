@@ -11,7 +11,7 @@ $ meteor add alanning:update-helpers
 ## API Documentation
 
 API documentation is generated from jsdoc-style comments in the source code.
-To view the documentation locally in your browser, install `yuidoc` then
+To view the documentation locally in your browser, install [yuidoc](http://yui.github.io/yuidoc/) (`npm -g install yuidocjs`) then
 perform the following steps:
 
 ```
