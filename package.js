@@ -2,6 +2,7 @@ Package.describe({
   name: 'alanning:update-helpers',
   version: '0.0.1',
   summary: 'Utility functions to query meta data about MongoDB update objects',
+  git: 'https://github.com/alanning/meteor-update-helpers.git',
   documentation: 'README.md'
 });
 
